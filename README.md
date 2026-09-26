@@ -1,6 +1,6 @@
 # 🔌 IOT-HM-Works
 
-A collection of IoT exercises and experiments built with Arduino.
+A collection of IoT exercises and experiments built with Arduino and ESP32.
 
 ---
 
