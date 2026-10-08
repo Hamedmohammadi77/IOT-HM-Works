@@ -12,7 +12,7 @@ A collection of IoT exercises and experiments built with Arduino and ESP32.
 | 2 | 📶 WiFi Basics v1 | [`wifi-v1/sketch_sep25a`](wifi-v1/sketch_sep25a/README.md) | First WiFi connection exercise |
 | 3 | 📡 WiFi Extended v2 | [`wifi-v2/sketch_sep25b`](wifi-v2/sketch_sep25b/README.md) | Extended WiFi functionality |
 | 4 | 📟 LCD Display | [`lcd/sketch_aug26a`](lcd/sketch_aug26a/README.md) | How LCD display works |
-| 5 | ⚙️ Stepper Motor Tester | [`stepper/stepper_tester`](stepper/stepper-tester/README.md) | Testing stepper motor rotation and angle control |
+| 5 | ⚙️ Stepper Motor Tester | [`stepper/stepper_tester`](stepper-tester/README.md) | Testing stepper motor rotation and angle control |
 
 ---
 
